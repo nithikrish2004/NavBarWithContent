@@ -1,0 +1,34 @@
+.headingDark {
+  color: white;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+.headingLight {
+  color: black;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+.dark-bg {
+  background-color: black;
+  background-size: cover;
+  height: 100vh;
+}
+.light-bg {
+  background-color: white;
+  background-size: cover;
+  height: 100vh;
+}
+.image {
+  height: 150px;
+  width: 150px;
+}
+.subContainer {
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

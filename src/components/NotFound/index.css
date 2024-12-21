@@ -1,0 +1,28 @@
+.image3 {
+  height: 400px;
+  width: 400px;
+}
+.bgDarkNotfound {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  background-color: black;
+  height:90vh;
+}
+.bgLightNotfound {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  height:90vh;
+}
+.light {
+  color: white;
+}
+.dark{
+  color: black;
+}
